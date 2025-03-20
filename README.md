@@ -100,15 +100,9 @@ Key SEO Keywords: Chest X-Ray Diagnosis, Deep Learning, Medical Imaging, CNN, AI
 ---
 
 ## Usage
-
-- **Command Line Execution:**  
-  Run the main script to execute the full diagnosis pipeline.
   
 - **Jupyter Notebook:**  
   Open `X-Ray.ipynb` in Jupyter or Colab for interactive exploration, visualization, and custom experiments.
-
-- **API Services:**  
-  Integrate with web or mobile applications using exposed endpoints (see API documentation for details).
 
 - **Visualization Tools:**  
   Utilize the ROC curve plots and confusion matrix outputs to interpret model reliability in clinical settings.
@@ -160,7 +154,7 @@ Licensed under the MIT License. See the [LICENSE](./LICENSE) file for full licen
 ## Contact
 
 For any questions, issues, or collaboration inquiries, please contact:
-- Maintainer: [maintainer@example.com](mailto:maintainer@example.com)
+- Maintainer: [maintainer@example.com](mailto:naitik@wayne.edu)
 
 ---
 
